@@ -15,7 +15,11 @@ def main():
     if args.command == "add":
         print("Executing the add command...")
     elif args.command == "list":
-        print("Executing the list command...")
+       tasks = []
+
+    if not tasks:
+        print("No tasks found.")
+        return
     elif args.command == "Omar":
         print("Executing the Omar command...")
 
