@@ -1,7 +1,8 @@
 # Lantern
+
 ## Team
 
 | Name | GitHub Username |
 |---|---|
-| Student A Name | A_USERNAME |
+| Omar Abushanab | omarabushanab. |
 | Hala Mohamed | Ha29la10 |
