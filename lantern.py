@@ -16,6 +16,8 @@ def main():
         print("Executing the add command...")
     elif args.command == "list":
         print("Executing the list command...")
+    elif args.command == "Omar":
+        print("Executing the Omar command...")
 
 if __name__ == "__main__":
     main()
