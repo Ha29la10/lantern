@@ -28,6 +28,3 @@ The application provides commands for managing tasks.
 
 ## Data Storage
 Tasks are stored locally in a JSON file.
-## Removing Tasks
-
-Use `lantern remove` to remove a task.
