@@ -7,7 +7,7 @@ def main():
     sub = parser.add_subparsers(dest="command", required=True)
 
     # The add command
-    add_parser = sub.add_parser("add")
+    add_parser = sub.add_parser("add") #done
 
     # The list command
     list_parser = sub.add_parser("list")
