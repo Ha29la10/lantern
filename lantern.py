@@ -16,7 +16,7 @@ def main():
     if args.command == "add":
         print("Executing the add command...")
     elif args.command == "list":
-        tasks = []
+        tasks = [] #changed now accept pr
 
         if not tasks:
             print("No tasks found.")
