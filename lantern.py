@@ -21,6 +21,7 @@ def main():
         action="store_true",
         help="Show only completed tasks"
     )
+    unnecessary_flag = True
 
     args = parser.parse_args()
 
@@ -50,3 +51,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    #this is a few lines to be added on lantern.py from the feature/export-csv branch.
