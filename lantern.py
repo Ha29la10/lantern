@@ -16,11 +16,6 @@ def main():
         action="store_true",
         help="Sort tasks by title"
     )
-    list_parser.add_argument(
-        "--done",
-        action="store_true",
-        help="Show only completed tasks"
-    )
     unnecessary_flag = True
 
     args = parser.parse_args()
